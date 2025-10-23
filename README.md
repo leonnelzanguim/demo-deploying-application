@@ -167,8 +167,3 @@ http://127.0.0.1:xxxxx
 - Do not store real credentials in plain text; use Kubernetes Secrets safely.
 
 ---
-
-## 👨‍💻 Author
-
-**Leonnel Zanguim**  
-DevOps Engineer — MongoDB + Kubernetes demo project
